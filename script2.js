@@ -22,3 +22,6 @@ console.log(house);
 //Null//
 let house2 = null;
 console.log(house2);
+
+
+//Question 3//
